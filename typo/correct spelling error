@@ -1,4 +1,4 @@
-# 🌌 RisingOS Version 6.0 BETA (Ascencion)
+# 🌌 RisingOS Version 6.0 BETA (Ascension)
 
 ## 🌅 Introduction
 - A new beginning and a fresh opportunity to rise. This update brings Android 15 with a touch of RisingOS enhancements. In Ascension, we've focused on thoughtfully adding customizations while prioritizing stability and performance.
